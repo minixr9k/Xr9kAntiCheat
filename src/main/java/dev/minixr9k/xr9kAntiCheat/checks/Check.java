@@ -15,7 +15,7 @@ public class Check {
     public void fail(Player failer, String msg) {
         for (Player p : Bukkit.getOnlinePlayers()) {
             if (p.isOp()) {
-                p.sendMessage("%s failed %s (%s)", failer.getName(), name, msg);
+                p.sendMessage(String.format("%s failed %s (%s)", failer.getName(), name, msg));
             }
         }
     }
