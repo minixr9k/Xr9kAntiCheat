@@ -1,0 +1,6 @@
+dev/minixr9k/xr9kAntiCheat/checks/movement/SprintBlindness.class
+dev/minixr9k/xr9kAntiCheat/listener/CheckListener.class
+dev/minixr9k/xr9kAntiCheat/Xr9kAntiCheat.class
+dev/minixr9k/xr9kAntiCheat/checks/movement/SprintHunger.class
+dev/minixr9k/xr9kAntiCheat/checks/Check.class
+dev/minixr9k/xr9kAntiCheat/checks/CheckManager.class

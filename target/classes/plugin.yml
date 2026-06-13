@@ -1,0 +1,6 @@
+name: Xr9kAntiCheat
+version: '$version'
+
+main: dev.minixr9k.xr9kAntiCheat.Xr9kAntiCheat
+api-version: '1.21'
+load: POSTWORLD

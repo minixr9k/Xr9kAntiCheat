@@ -19,6 +19,7 @@ public class CheckListener implements Listener {
     private void onMove(PlayerMoveEvent e) {
 
         plugin.getCheckManager().getSprintBlindness().handle(e);
+        plugin.getCheckManager().getSprintHunger().handle(e);
 
     }
 
